@@ -83,9 +83,9 @@ Your controller layout:
 |----------------|----------------|-----------------------|
 | D-pad Left     | Move left      | GPIOB pin 6           |
 | D-pad Right    | Move right     | GPIOB pin 3           |
-| D-pad Up       | Rotate         | GPIOA pin 10          |
+| D-pad Up       | Rotate         | GPIOB pin 5           |
 | D-pad Down     | Soft drop      | GPIOB pin 4           |
-| **Left side**  | **Special**    | GPIOB pin 5           |
+| **Left side**  | **Special**    | GPIOA pin 10          |
 
 -> The **special button** is the extra one on the **left side** of your controller (not part of the cross).  
 
